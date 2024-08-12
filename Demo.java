@@ -7,6 +7,7 @@ public class Demo
 		int v2=300;
 		int result=v1+v2;
 		System.out.println("total "+result);
+		System.out.println("Hello ji...");
 	}
 
 }
